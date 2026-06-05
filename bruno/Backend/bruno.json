@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "name": "Geekway Backend",
+  "name": "RulesLawyer Backend",
   "type": "collection",
   "ignore": [
     "node_modules",
